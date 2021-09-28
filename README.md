@@ -3,6 +3,8 @@
 contains default.html which is what is used by jekyll to create the HTML files. <br /> 
 # posts<br />
 contains all the blogs ( the actual posts ) on the website. <br />
+# home <br />
+The main page of the website. All the other pages can be accessed from here.
 # about <br />
 gives a breif description aboit the webpage. 
 # blog <br />
