@@ -11,5 +11,7 @@ contais the index.html file for jekyll to use and create a layout for the blogs
 sets the appearance of the website
 # images folder <br />
 contains all the png images used on the website
+# config.yml <br />
+tells which markdown is used and describes the name format for the blog posts.
 
 # we used jekyll to create the webpage. default.html in layouts_ provides the information for jekyll to work. 
